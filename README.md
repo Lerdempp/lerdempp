@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
-<h3 align="center">👨‍💻 Software Engineer | Full-Stack Developer | Open-Source Contributor</h3>
+<h3 align="center">👨‍💻 Software Engineer | Frontend Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Kaan+Alparslan!;Software+Engineer;Full-Stack+Developer;React+|+Node.js+|+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Ali+Erdem+Kandemir!;Software+Engineer;Frontend+Developer;React+|+Node.js)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaanalparslan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
