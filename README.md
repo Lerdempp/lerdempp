@@ -45,11 +45,12 @@
 ## 📂 Pinned Projects
 
 <a href="https://github.com/Lerdempp/Prolock">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lerdempp&repo=MyProject&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lerdempp&repo=Prolock&theme=radical" />
 </a>
 <a href="https://github.com/Lerdempp/Game-Price-Tracker">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lerdempp&repo=AnotherProject&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lerdempp&repo=Game-Price-Tracker&theme=radical" />
 </a>
+
 
 ---
 
