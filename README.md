@@ -47,7 +47,7 @@
 <a href="https://github.com/Lerdempp/Prolock">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lerdempp&repo=MyProject&theme=radical" />
 </a>
-<a href="https://github.com/Lerdempp/AnotherProject">
+<a href="https://github.com/Lerdempp/Game-Price-Tracker">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lerdempp&repo=AnotherProject&theme=radical" />
 </a>
 
